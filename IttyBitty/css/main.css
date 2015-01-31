@@ -179,10 +179,40 @@ ul.nostyle i {
   #main-menu.navbar-default .navbar-nav > li.active > a,
   #main-menu.navbar-default .navbar-nav > li.open > a,
   #main-menu.navbar-default .navbar-nav > li:hover > a {
-    background: transparent;
     padding-top: 37px;
-    border-top: 3px solid #45aed6;
+    border-top: 3px solid #666;
   }
+    
+ #nav-home {
+    background-color: #e44a1a;
+    color: white;
+ }
+ #nav-about {
+    background-color: #ff800a;
+     color: white;
+ }
+ #nav-getinvolved {
+    background-color: #dbc904;
+     color: white;
+ }
+ #nav-eventinfo {
+    background-color: #91ba04;
+     color: white;
+ }
+ #nav-competitions {
+    background-color: #0c98b3;
+     color: white;
+ }
+ #nav-news {
+    background-color: #3274b1;
+     color: white;
+ }
+ #nav-contacts {
+    background-color: #6635a2;
+     color: white;
+ }
+    
+
   #main-menu.navbar-default .dropdown-menu {
     padding: 0 20px;
     min-width: 220px;
@@ -903,6 +933,7 @@ ul.nostyle i {
 #contact .contact-form h3 {
   margin-top: 0;
 }
+
 /***********************
 ********* Footer ******
 ************************/
