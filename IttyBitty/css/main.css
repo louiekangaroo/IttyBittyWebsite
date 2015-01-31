@@ -169,8 +169,8 @@ ul.nostyle i {
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
     background: rgba(255, 255, 255, 0.9);
-    -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 1);
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 1);
   }
   #main-menu.navbar-default .navbar-nav > li > a {
     padding-top: 40px;
